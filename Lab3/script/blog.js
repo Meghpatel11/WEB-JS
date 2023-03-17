@@ -108,7 +108,7 @@ const getBlogData = () =>
 
 }
 
-getBlogData();
-getBlogImg();
+// getBlogData();
+// getBlogImg();
 makeBlog();
 
